@@ -441,6 +441,9 @@
             "text": "1997"
           },
           "name": {
+            "text" : "Dr. APJ Abul Kalam"
+          }
+          "details": {
             "text": "Aerospace and defence scientist, Kalam was involved in the development of India's first satellite launch vehicle SLV III and was the architect of Integrated Guided Missile Development Program. He worked for Indian National Committee for Space Research, Indian Space Research Organisation, Defence Research and Development Laboratory and was appointed as the Scientific Advisor to the Defence Minister, Secretary to Department of Defence Research and Development and Director General of Defence Research and Development Organisation. Later, he served as the eleventh President of India from 2002 till 2007."
           }
         },
@@ -459,7 +462,10 @@
           "year": {
               "text" :"1998"
           },
-          "name": {
+          "name":{
+            "text" : "Subramanium"
+          },
+          "details": {
             "text": "Independence activist and former Minister of Agriculture of India (1964–66), Subramaniam is known for his contribution towards Green Revolution in India. During the late 1970s, he worked for International Rice Research Institute, Manila, and the International Maize and Wheat Research Institute, Mexico."
           }
         },
@@ -556,6 +562,9 @@
             "text": "2014"
           },
           "name": {
+            "text": "Sachin Tendulkar"
+          },
+          "details": {
             "text": "Having debuted in 1989, Tendulkar played 664 international cricket matches in a career spanning over two decades. He holds various cricket records including the only player to have scored one hundred international centuries, the first batsman to score a double century in a One Day International and the only player to complete more than 30,000 runs in both ODI and Test cricket."
           }
         },
