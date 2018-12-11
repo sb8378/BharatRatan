@@ -1,556 +1,586 @@
 {
-  "content" : 
-[
-  {
-    "Year": {
-      "text": "1954"
+  "bharatRatna" : { 
+    "established"  : {
+        "day" :{
+           "text" :"2"
+        },
+        "month":{
+            "text" :"January"
+        },
+        "year" :{
+            "text":"1954"
+        }
     },
-    "Name": {
-      "text": "C. Rajagopalachari",
-      "links": ""
+    "overview": [{
+        "text" :"The Bharat Ratna is the highest civilian award of the Republic of India."
     },
-    "details": {
-      "text": "An Indian independence activist, statesman, and lawyer, Rajagopalachari was the only Indian and last Governor-General of independent India. He was Chief Minister of Madras Presidency (1937–39) and Madras State (1952–54); and founder of Indian political party Swatantra Party."
+    {
+        "text":"The award is conferred in recognition of exceptional service of the highest order, without distinction of race, occupation, position, or sex."
+    },
+    {
+        "text":"The award was originally limited to achievements in the arts, literature, science, and public services, but the government expanded the criteria to include any field of human endeavour in December 2011."
+    },
+    {
+        "text":"The recommendations for the Bharat Ratna are made by the Prime Minister to the President, with a maximum of three nominees being awarded per year."
+    },
+    {
+        "text":"Recepients receives a certificate signed by the President and a peepal leafed Medal. No money is granted with the award."
     }
-  },
-  {
-    "Year": {
-      "text": "1954"
+],
+    "specifications" :[{
+          "text":"The Medal is in the shape of the Peepal leaf and rimmed in Platinum."
     },
-    "Name": {
-      "text": "Sarvepalli Radhakrishnan",
-      "link": ""
+    {
+        "text" :"On the Front side of the medal, sun in the centre is shown spreading rays around."
     },
-    "details": {
-      "text": "Philosopher Radhakrishnan served as India's first Vice-President (1952–62) and second President (1962–67). Since 1962, his birthday on 5 September is observed as \"Teachers' Day\" in India."
+    {
+        "text":"'Bharat Ratna' is written in Devanagri Script on the Bottom of the medal at front side."
+    },
+    {
+        "text" :"On the back side a platinum State Emblem of India was placed in center with national motto 'Satyamev Jayte'."
     }
-  },
-  {
-    "Year": {
-      "text": "1954"
+],
+    "keyPoints" : [{
+        "text" :"The first recipients of Bharat Ratna were C. Rajagopalachari , Sarvepalli Radhakrishnan and C.V Raman is 1954."
     },
-    "Name": {
-      "text": "C. V. Raman",
-      "links": ""
+    {
+        "text" :"In 1971, Indira Gandhi became first woman to receive Bhatan Ratna."
     },
-    "details": {
-      "text": "Widely known for his work on the scattering of light and the discovery of the effect, better known as \"Raman scattering\", Raman mainly worked in the field of atomic physics and electromagnetism and was presented Nobel Prize in Physics in 1930."
+    {
+        "text" :"There is no provision that award recipients should be Indian Citizens only. It has been awarded to non-Indians, Khan Abdul Ghaffar Khan of Pakistan in 1987 and former South Africa President Nelson Mandela in 1990."
+    },
+    {
+        "text":"In 1954, the award was limited in the achievments of Arts, Literature, Science and Public Servies. But in 2011, criteria include any field of human endeavour."
+    },
+    {
+        "text" :"In 2014 Sachin Tendular became the youngest at age of 40 years and the first recepient of the award in field of sports."
+    },
+    {
+        "text" :"In 1954, posthumous(after death) award was not allowed. But in 1955 rules were modified and posthumous were allowed."
+    },
+    {
+        "text": "In 1966, Lal Bahadur Shashtri became first posthumous recepient of award."
+    },
+    {
+        "text" :"Only Prime Minister can made recommendations for the award with maximux of three nominees per year."
+    },
+    {
+        "text" : "In 1999, Four nominees were awarded with the Bharat Ratan. Only time when more than three nominees were awarded."
+    },
+    {
+        "text" : "In 1977, for the first time Bharat Ratna was suspended. Morarji Desai withdrew all civilian honours. But in 1980 suspension was rescinded after Indira Gandhi became Prime Minister."
+    },
+    {
+        "text" : "In 1992, it was second time that Bharat Ratan was suspended after two PILs were filed challenging the Constitutional Validity of Award. But in December 1995, Supreme Court reintroduced the award."
+    },
+    {
+        "text" :"Bharat Ratna Awards are produced in Alipore Mint, Kolkata."
+    },
+    {
+        "text" :"The recepient cannot use the award as the prefix or suffix to their name. Expressions like Recepient of Bharat Ratna Award or Awarded Bharat Ratna by the President can be used."
+    },
+    {
+        "text": "Receipients are announced and registed in the Gazatte Of India publications. If name is not registered in the Gazatte of India, the recepient name is not considered official."
+    },
+    {
+        "text":"In 1992, a press released stated that Subhash Chandra Bose would be awarded poshumously. This turns to be the controvesial as the government of India did not announce the death of Subhash Chandra Bose officially in 1945 after he missed. Later award was not given as name was not registered in Gazatte of India."
+    },
+    {
+        "text": "Many times recommendations were made to award Bharat Ratna posthumously to Dhyanchand. But was not considered."
+    },
+    {
+        "text":"In 1988, Rajiv Gandhi confered the name of former Chief Minister M.G Ramachandran for awarding him Bharat Ratna posthumously to influence the voters prior to the Tamil Nadu's Assembly Elections. This was critisised for awarding him before independene activist like B.R Ambedkar and Vallabhbhai Patel who were awarded in 1990 and 1991 respectively."
+    },
+    {
+        "text":"In 1977 Indira Gandhi was critisised for awarding K.Kamaraj to influence Tamil Voters for Assembly Election in 1977."
     }
-  },
-  {
-    "Year": {
-      "text": "1955"
-    },
-    "Name": {
-      "text": "Bhagwan Das",
-      "links": ""
-    },
-    "details": {
-      "text": "Independence activist, philosopher, and educationist, Das is a co-founder of Mahatma Gandhi Kashi Vidyapith and worked with Madan Mohan Malaviya for the foundation of Banaras Hindu University."
-    }
-  },
-  {
-    "Year": {
-      "text": "1955"
-    },
-    "Name": {
-      "text": "M. Visvesvaraya",
-      "links": ""
-    },
-    "details": {
-      "text": "Civil engineer, statesman, and Diwan of Mysore (1912–18), Visvesvaraya was a Knight Commander of the Order of the Indian Empire. His birthday, 15 September, is observed as \"Engineer's Day\" in India."
-    }
-  },
-  {
-    "Year": {
-      "text": "1955"
-    },
-    "Name": {
-      "text": "Jawaharlal Nehru",
-      "links": ""
-    },
-    "details": {
-      "text": "Independence activist and author, Nehru is the first and the longest-serving Prime Minister of India (1947–64)."
-    }
-  },
-  {
-    "Year": {
-      "text": "1957"
-    },
-    "Name": {
-      "text": "Govind Ballabh Pant",
-      "links": ""
-    },
-    "details": {
-      "text": "Independence activist Pant was premier of United Provinces (1937–39, 1946–50) and first Chief Minister of Uttar Pradesh (1950–54). He served as Union Home Minister from 1955–61."
-    }
-  },
-  {
-    "Year": {
-      "text": "1958"
-    },
-    "Name": {
-      "text": "Dhondo Keshav Karve",
-      "links": ""
-    },
-    "details": {
-      "text": "Social reformer and educator, Karve is widely known for his works related to woman education and remarriage of Hindu widows. He established the Widow Marriage Association (1883), Hindu Widows Home (1896), and started Shreemati Nathibai Damodar Thackersey Women's University in 1916."
-    }
-  },
-  {
-    "Year": {
-      "text": "1961"
-    },
-    "Name": {
-      "text": "Bidhan Chandra Roy",
-      "links": ""
-    },
-    "details": {
-      "text": "A physician, political leader, philanthropist, educationist, and social worker, Roy is often considered as \"Maker of Modern West Bengal\". He was second Chief Minister of West Bengal (1948–62) and his birthday on 1 July is observed as National Doctors' Day in India."
-    }
-  },
-  {
-    "Year": {
-      "text": "1961"
-    },
-    "Name": {
-      "text": "Purushottam Das Tandon",
-      "links": ""
-    },
-    "details": {
-      "text": "Often titled as \"Rajarshi\", Tandon was an independence activist and served as speaker of the Uttar Pradesh Legislative Assembly (1937–50). He was actively involved in a campaign to get official language status to Hindi."
-    }
-  },
-  {
-    "Year": {
-      "text": "1962"
-    },
-    "Name": {
-      "text": "Rajendra Prasad",
-      "links": ""
-    },
-    "details": {
-      "text": "Independence activist, lawyer, statesman, and scholar, Prasad was closely associated with Mahatma Gandhi in the non-cooperation movement for Indian independence. He was later elected as the first President of India (1950–62)."
-    }
-  },
-  {
-    "Year": {
-      "text": "1963"
-    },
-    "Name": {
-      "text": "Zakir Husain",
-      "links": ""
-    },
-    "details": {
-      "text": "Independence activist and education philosopher, Husain served as a Vice Chancellor of Aligarh Muslim University (1948–56) and the Governor of Bihar (1957–62). Later, he was elected as second Vice-President of India (1962–67) and went on to become the third President of India (1967–69)."
-    }
-  },
-  {
-    "Year": {
-      "text": "1963"
-    },
-    "Name": {
-      "text": "Pandurang Vaman Kane",
-      "links": ""
-    },
-    "details": {
-      "text": "Indologist and Sanskrit scholar, Kane is best known for his five volume literary work, History of Dharmaśāstra: Ancient and Medieval Religious and Civil Law in India; the \"monumental\" work that extends over nearly 6,500 pages and being published from 1930 to 1962."
-    }
-  },
-  {
-    "Year": {
-      "text": "1966"
-    },
-    "Name": {
-      "text": "Lal Bahadur Shastri",
-      "links": ""
-    },
-    "details": {
-      "text": "Known for his slogan \"Jai Jawan Jai Kisan\" (\"Hail the Soldier, Hail the Farmer\"), Independence activist Shastri served as second Prime Minister of India (1964–66) and led the country during the Indo-Pakistani War of 1965."
-    }
-  },
-  {
-    "Year": {
-      "text": "1971"
-    },
-    "Name": {
-      "text": "Indira Gandhi",
-      "links": ""
-    },
-    "details": {
-      "text": "Known as the \"Iron Lady of India\", Gandhi was the Prime Minister of India during 1966–77 and 1980–84. During the Indo-Pakistani War of 1971, her government supported Bangladesh Liberation War which led to the formation of a new country, Bangladesh."
-    }
-  },
-  {
-    "Year": {
-      "text": "1975"
-    },
-    "Name": {
-      "text": "V. V. Giri",
-      "links": ""
-    },
-    "details": {
-      "text": "While studying at the University College Dublin, Giri was involved in the Irish Sinn Féin movement. Returning to India, he organized labour unions and brought them to take active participation in Indian freedom struggle. He was elected as the first President of All India Trade Union Congress in 1926. Post-independence, Giri held positions of Governor of Uttar Pradesh, Kerala and Mysore and various other cabinet ministries. He became the first acting President and was eventually elected as the fourth President of India (1969–74)."
-    }
-  },
-  {
-    "Year": {
-      "text": "1976"
-    },
-    "Name": {
-      "text": "K. Kamaraj",
-      "links": ""
-    },
-    "details": {
-      "text": "Independence activist and statesman Kamaraj was a Chief Minister of Tamil Nadu for three terms; 1954–57, 1957–62, and 1962–63."
-    }
-  },
-  {
-    "Year": {
-      "text": "1980"
-    },
-    "Name": {
-      "text": "Mother Teresa",
-      "links": ""
-    },
-    "details": {
-      "text": "\"Saint Mother Teresa of Calcutta\" was a catholic nun and the founder of the Missionaries of Charity. She was awarded the Nobel Peace Prize for her humanitarian work in 1979 and was beatified on 19 October 2003 by Pope John Paul II and canonised on 4 September 2016 by Pope Francis."
-    }
-  },
-  {
-    "Year": {
-      "text": "1983"
-    },
-    "Name": {
-      "text": "Vinoba Bhave",
-      "links": ""
-    },
-    "details": {
-      "text": "Independence activist, social reformer, and a close associate of Mahatma Gandhi, Bhave is best known for his Bhoodan movement, \"Land-Gift Movement\". He was given the honorific title \"Acharya\" (\"teacher\") and was awarded the Ramon Magsaysay Award (1958) for his humanitarian work.",
-      "links": ""
-    }
-  },
-  {
-    "Year": {
-      "text": "1987"
-    },
-    "Name": {
-      "text": "Khan Abdul Ghaffar Khan",
-      "links": ""
-    },
-    "details": {
-      "text": "Widely known as \"Frontier Gandhi\", independence activist and Pashtun leader Khan was a follower of Mahatma Gandhi. He joined Khilafat Movement in 1920 and founded Khudai Khidmatgar (\"Red Shirt movement\") in 1929."
-    }
-  },
-  {
-    "Year": {
-      "text": "1988"
-    },
-    "Name": {
-      "text": "M. G. Ramachandran",
-      "links": ""
-    },
-    "details": {
-      "text": "Actor turned politician Ramachandran served as Chief Minister of Tamil Nadu for three terms; 1977–80, 1980–84, 1985–87."
-    }
-  },
-  {
-    "Year": {
-      "text": "1990"
-    },
-    "Name": {
-      "text": "B. R. Ambedkar",
-      "links": ""
-    },
-    "details": {
-      "text": "Social reformer and leader of the Dalits, Ambedkar was the Chief architect of the Indian Constitution and also served as the first Law Minister of India. Ambedkar predominantly campaigned against the social discrimination with Dalits, the Hindu varna system. He was associated with the Dalit Buddhist movement and accepted Buddhism as a religion along with his close to half a million followers on 14 October 1956."
-    }
-  },
-  {
-    "Year": {
-      "text": "1990"
-    },
-    "Name": {
-      "text": "Nelson Mandela",
-      "links": ""
-    },
-    "details": {
-      "text": "Leader of the Anti-Apartheid Movement in South Africa, Mandela was the President of South Africa (1994–99). Often called as the \"Gandhi of South Africa\", Mandela's African National Congress movement was influenced by Gandhian philosophy. In 1993, he was awarded the Nobel Peace Prize."
-    }
-  },
-  {
-    "Year": {
-      "text": "1991"
-    },
-    "Name": {
-      "text": "Rajiv Gandhi",
-      "links": ""
-    },
-    "details": {
-      "text": "Gandhi was the ninth Prime Minister of India serving from 1984 to 1989."
-    }
-  },
-  {
-    "Year": {
-      "text": "1991"
-    },
-    "Name": {
-      "text": "Vallabhbhai Patel",
-      "links": ""
-    },
-    "details": {
-      "text": "Widely known as the \"Iron Man of India\", Patel was an independence activist and first Deputy Prime Minister of India (1947–50). Post independence, \"Sardar\" (\"Leader\") Patel worked with V. P. Menon towards dissolving 555 princely states into the Indian union."
-    }
-  },
-  {
-    "Year": {
-      "text": "1992"
-    },
-    "Name": {
-      "text": "Morarji Desai",
-      "links": ""
-    },
-    "details": {
-      "text": "Independence activist Desai was the sixth Prime Minister of India (1977–79). He is the only Indian national to be awarded the Nishan-e-Pakistan, highest civilian award given by the Government of Pakistan."
-    }
-  },
-  {
-    "Year": {
-      "text": "1992"
-    },
-    "Name": {
-      "text": "Abul Kalam Azad",
-      "links": ""
-    },
-    "details": {
-      "text": "Independence activist Azad was India's first Minister of Education and worked towards free primary education. He was widely known as \"Maulana Azad\" and his birthday on 11 November is observed as National Education Day in India."
-    }
-  },
-  {
-    "Year": {
-      "text": "1992"
-    },
-    "Name": {
-      "text": "J. R. D. Tata",
-      "links": ""
-    },
-    "details": {
-      "text": "Industrialist, philanthropist, and aviation pioneer, Tata founded India's first airline Air India. He is the founder of various institutes including Tata Institute of Fundamental Research, Tata Memorial Hospital, Tata Institute of Social Sciences, Tata Motors, TCS, National Institute of Advanced Studies, and National Centre for the Performing Arts."
-    }
-  },
-  {
-    "Year": {
-      "text": "1992"
-    },
-    "Name": {
-      "text": "Satyajit Ray",
-      "links": ""
-    },
-    "details": {
-      "text": "Having debuted as a director with Pather Panchali (1955), film-maker Ray is credited with bringing world recognition to Indian cinema. In 1984, Ray was awarded the Dadasaheb Phalke Award, India's highest award in cinema."
-    }
-  },
-  {
-    "Year": {
-      "text": "1997"
-    },
-    "Name": {
-      "text": "Gulzarilal Nanda",
-      "links": ""
-    },
-    "details": {
-      "text": "Independence activist Nanda was two times interim Prime Minister of India (1964, 1966) and two times deputy chairman of the Planning Commission."
-    }
-  },
-  {
-    "Year": {
-      "text": "1997"
-    },
-    "Name": {
-      "text": "Aruna Asaf Ali",
-      "links": ""
-    },
-    "details": {
-      "text": "Independence activist Ali is better known for hoisting the Indian flag in Bombay during the Quit India Movement in 1942. Post Independence, Ali was elected as Delhi's first mayor in 1958."
-    }
-  },
-  {
-    "Year": {
-      "text": "1997"
-    },
-    "Name":{
-      "text":"Dr. APJ Abul Kalam"
-    },
-    "details": {
-      "text": "Aerospace and defence scientist, Kalam was involved in the development of India's first satellite launch vehicle SLV III and was the architect of Integrated Guided Missile Development Program. He worked for Indian National Committee for Space Research, Indian Space Research Organisation, Defence Research and Development Laboratory and was appointed as the Scientific Advisor to the Defence Minister, Secretary to Department of Defence Research and Development and Director General of Defence Research and Development Organisation. Later, he served as the eleventh President of India from 2002 till 2007."
-    }
-  },
-  {
-    "Year": {
-      "text": "1998"
-    },
-    "Name": {
-      "text": "M. S. Subbulakshmi",
-      "links": ""
-    },
-    "details": {
-      "text": "Carnatic classical vocalist Subbulakshmi, often hailed as \"Queen of songs\", is the first Indian musician to receive the Ramon Magsaysay award.",
-      "links": ""
-    }
-  },
-  {
-    "Year": {
-      "text": ""
-    },
-    "Name": {
-      "text":"Subramaniam"
-    },
-    "details": {
-      "text": "Independence activist and former Minister of Agriculture of India (1964–66), Subramaniam is known for his contribution towards Green Revolution in India. During the late 1970s, he worked for International Rice Research Institute, Manila, and the International Maize and Wheat Research Institute, Mexico.",
-      "links": ""
-    }
-  },
-  {
-    "Year": {
-      "text": "1999"
-    },
-    "Name": {
-      "text": "Jayaprakash Narayan",
-      "links": ""
-    },
-    "details": {
-      "text": "Independence activist, social reformer, and commonly referred as \"Lok Nayak\" (\"People's Hero\"), Narayan is better known for \"Total Revolution Movement\" or \"JP Movement\" initiated during the mid-1970s to \"overthrow the corrupt and exploitative Congress government\".",
-      "links": ""
-    }
-  },
-  {
-    "Year": {
-      "text": "1999"
-    },
-    "Name": {
-      "text": "Amartya Sen",
-      "links": ""
-    },
-    "details": {
-      "text": "Winner of the Nobel Memorial Prize in Economic Sciences (1998), Sen has done research over several topics including social choice theory, ethics and political philosophy, welfare economics, decision theory, development economics, public health, and gender studies.",
-      "links": ""
-    }
-  },
-  {
-    "Year": {
-      "text": "1999"
-    },
-    "Name": {
-      "text": "Gopinath Bordoloi",
-      "links": ""
-    },
-    "details": {
-      "text": "Independence activist Bordoloi is the first Chief Minister of Assam (1946–50). His efforts and association with the then Minister of Home Affairs Vallabhbhai Patel were widely acknowledged while keeping Assam united with India when parts of it were to merge with East Pakistan.",
-      "links": ""
-    }
-  },
-  {
-    "Year": {
-      "text": "1999"
-    },
-    "Name": {
-      "text": "Ravi Shankar",
-      "links": ""
-    },
-    "details": {
-      "text": "Winner of four Grammy Awards and often considered \"the world's best-known exponent of Hindustani classical music\", sitar player Shankar is known for his collaborative work with Western musicians including Yehudi Menuhin and George Harrison.",
-      "links": ""
-    }
-  },
-  {
-    "Year": {
-      "text": "2001"
-    },
-    "Name": {
-      "text": "Lata Mangeshkar",
-      "links": ""
-    },
-    "details": {
-      "text": "Widely credited as the \"nightingale of India\", playback singer Mangeshkar started her career in the 1940s and has sung songs in over 36 languages. In 1989, Mangeshkar was awarded the Dadasaheb Phalke Award, India's highest award in cinema.",
-      "links": ""
-    }
-  },
-  {
-    "Year": {
-      "text": ""
-    },
-    "Name": {
-      "text": "Bismillah Khan",
-      "links": ""
-    },
-    "details": {
-      "text": "Hindustani classical shehnai player, Khan played the instrument for more than eight decades and is credited to have brought the instrument to the centre stage of Indian music.",
-      "links": ""
-    }
-  },
-  {
-    "Year": {
-      "text": "2008"
-    },
-    "Name": {
-      "text": "Bhimsen Joshi",
-      "links": ""
-    },
-    "details": {
-      "text": "Hindustani classical vocalist, Joshi was a disciple of Kirana gharana, an Indian musical school. He is widely known for the Khyal genre of singing with a \"mastery over rhythm and accurate Name\".",
-      "links": ""
-    }
-  },
-  {
-    "Year": {
-      "text": "2014"
-    },
-    "Name": {
-      "text": "C. N. R. Rao",
-      "links": ""
-    },
-    "details": {
-      "text": "The recipient of Honorary Doctorates from 63 Universities including Purdue, IIT Bombay, Oxford, chemist and professor Rao has worked prominently in the fields of Solid State and Materials Chemistry, Spectroscopy and Molecular Structure. He has authored around 1600 research papers and 48 books.",
-      "links": ""
-    }
-  },
-  {
-    "Year": {
-      "text": "2014"
-    },
-    "Name":{
-      "text" : "Sachin Ramesh Tendulkar"
-    },
-    "details": {
-      "text": "Having debuted in 1989, Tendulkar played 664 international cricket matches in a career spanning over two decades. He holds various cricket records including the only player to have scored one hundred international centuries, the first batsman to score a double century in a One Day International and the only player to complete more than 30,000 runs in both ODI and Test cricket.",
-      "links": ""
-    }
-  },
-  {
-    "Year": {
-      "text": "2015"
-    },
-    "Name": {
-      "text": "Madan Mohan Malaviya",
-      "links": ""
-    },
-    "details": {
-      "text": "Scholar and educational reformer Malaviya is a founder of Akhil Bharatiya Hindu Mahasabha (1906) and Banaras Hindu University and served as the university's vice-chancellor from 1919 till 1938. He was the President of Indian National Congress for four terms and was the Chairman of Hindustan Times from 1924 to 1946.",
-      "links": ""
-    }
-  },
-  {
-    "Year": {
-      "text": "2015"
-    },
-    "Name": {
-      "text": "Atal Bihari Vajpayee",
-      "links": ""
-    },
-    "details": {
-      "text": "Parliamentarian for over four decades, Vajpayee was elected nine times to the Lok Sabha, twice to the Rajya Sabha and served as the Prime Minister of India for three terms; 1996, 1998, 1999–2004. He was Minister of External Affairs during 1977–79 and was awarded the \"Best Parliamentarian\" in 1994.",
-      "links": ""
-    }
-  }
-]
+],
+        "recepients":[{
+          "year": {
+            "text": "1954"
+          },
+          "name": {
+            "text": "C. Rajagopalachari"
+          },
+          "details": {
+            "text": "An Indian independence activist, statesman, and lawyer, Rajagopalachari was the only Indian and last Governor-General of independent India. He was Chief Minister of Madras Presidency (1937–39) and Madras State (1952–54); and founder of Indian political party Swatantra Party."
+          }
+        },
+        {
+          "year": {
+            "text": "1954"
+          },
+          "name": {
+            "text": "Sarvepalli Radhakrishnan"
+          },
+          "details": {
+            "text": "Philosopher Radhakrishnan served as India's first Vice-President (1952–62) and second President (1962–67). Since 1962, his birthday on 5 September is observed as \"Teachers' Day\" in India."
+          }
+        },
+        {
+          "year": {
+            "text": "1954"
+          },
+          "name": {
+            "text": "C. V. Raman"
+          },
+          "details": {
+            "text": "Widely known for his work on the scattering of light and the discovery of the effect, better known as \"Raman scattering\", Raman mainly worked in the field of atomic physics and electromagnetism and was presented Nobel Prize in Physics in 1930."
+          }
+        },
+        {
+          "year": {
+            "text": "1955"
+          },
+          "name": {
+            "text": "Bhagwan Das"
+          },
+          "details": {
+            "text": "Independence activist, philosopher, and educationist, Das is a co-founder of Mahatma Gandhi Kashi Vidyapith and worked with Madan Mohan Malaviya for the foundation of Banaras Hindu University."
+          }
+        },
+        {
+          "year": {
+            "text": "1955"
+          },
+          "name": {
+            "text": "M. Visvesvaraya"
+          },
+          "details": {
+            "text": "Civil engineer, statesman, and Diwan of Mysore (1912–18), Visvesvaraya was a Knight Commander of the Order of the Indian Empire. His birthday, 15 September, is observed as \"Engineer's Day\" in India."
+          }
+        },
+        {
+          "year": {
+            "text": "1955"
+          },
+          "name": {
+            "text": "Jawaharlal Nehru"
+          },
+          "details": {
+            "text": "Independence activist and author, Nehru is the first and the longest-serving Prime Minister of India (1947–64)."
+          }
+        },
+        {
+          "year": {
+            "text": "1957"
+          },
+          "name": {
+            "text": "Govind Ballabh Pant"
+          },
+          "details": {
+            "text": "Independence activist Pant was premier of United Provinces (1937–39, 1946–50) and first Chief Minister of Uttar Pradesh (1950–54). He served as Union Home Minister from 1955–61."
+          }
+        },
+        {
+          "year": {
+            "text": "1958"
+          },
+          "name": {
+            "text": "Dhondo Keshav Karve"
+          },
+          "details": {
+            "text": "Social reformer and educator, Karve is widely known for his works related to woman education and remarriage of Hindu widows. He established the Widow Marriage Association (1883), Hindu Widows Home (1896), and started Shreemati Nathibai Damodar Thackersey Women's University in 1916."
+          }
+        },
+        {
+          "year": {
+            "text": "1961"
+          },
+          "name": {
+            "text": "Bidhan Chandra Roy"
+          },
+          "details": {
+            "text": "A physician, political leader, philanthropist, educationist, and social worker, Roy is often considered as \"Maker of Modern West Bengal\". He was second Chief Minister of West Bengal (1948–62) and his birthday on 1 July is observed as National Doctors' Day in India."
+          }
+        },
+        {
+          "year": {
+            "text": "1961"
+          },
+          "name": {
+            "text": "Purushottam Das Tandon"
+          },
+          "details": {
+            "text": "Often titled as \"Rajarshi\", Tandon was an independence activist and served as speaker of the Uttar Pradesh Legislative Assembly (1937–50). He was actively involved in a campaign to get official language status to Hindi."
+          }
+        },
+        {
+          "year": {
+            "text": "1962"
+          },
+          "name": {
+            "text": "Rajendra Prasad"
+          },
+          "details": {
+            "text": "Independence activist, lawyer, statesman, and scholar, Prasad was closely associated with Mahatma Gandhi in the non-cooperation movement for Indian independence. He was later elected as the first President of India (1950–62)."
+          }
+        },
+        {
+          "year": {
+            "text": "1963"
+          },
+          "name": {
+            "text": "Zakir Husain"
+          },
+          "details": {
+            "text": "Independence activist and education philosopher, Husain served as a Vice Chancellor of Aligarh Muslim University (1948–56) and the Governor of Bihar (1957–62). Later, he was elected as second Vice-President of India (1962–67) and went on to become the third President of India (1967–69)."
+          }
+        },
+        {
+          "year": {
+            "text": "1963"
+          },
+          "name": {
+            "text": "Pandurang Vaman Kane"
+          },
+          "details": {
+            "text": "Indologist and Sanskrit scholar, Kane is best known for his five volume literary work, History of Dharmaśāstra: Ancient and Medieval Religious and Civil Law in India; the \"monumental\" work that extends over nearly 6,500 pages and being published from 1930 to 1962."
+          }
+        },
+        {
+          "year": {
+            "text": "1966"
+          },
+          "name": {
+            "text": "Lal Bahadur Shastri"
+          },
+          "details": {
+            "text": "Known for his slogan \"Jai Jawan Jai Kisan\" (\"Hail the Soldier, Hail the Farmer\"), Independence activist Shastri served as second Prime Minister of India (1964–66) and led the country during the Indo-Pakistani War of 1965."
+          }
+        },
+        {
+          "year": {
+            "text": "1971"
+          },
+          "name": {
+            "text": "Indira Gandhi"
+          },
+          "details": {
+            "text": "Known as the \"Iron Lady of India\", Gandhi was the Prime Minister of India during 1966–77 and 1980–84. During the Indo-Pakistani War of 1971, her government supported Bangladesh Liberation War which led to the formation of a new country, Bangladesh."
+          }
+        },
+        {
+          "year": {
+            "text": "1975"
+          },
+          "name": {
+            "text": "V. V. Giri"
+          },
+          "details": {
+            "text": "While studying at the University College Dublin, Giri was involved in the Irish Sinn Féin movement. Returning to India, he organized labour unions and brought them to take active participation in Indian freedom struggle. He was elected as the first President of All India Trade Union Congress in 1926. Post-independence, Giri held positions of Governor of Uttar Pradesh, Kerala and Mysore and various other cabinet ministries. He became the first acting President and was eventually elected as the fourth President of India (1969–74)."
+          }
+        },
+        {
+          "year": {
+            "text": "1976"
+          },
+          "name": {
+            "text": "K. Kamaraj"
+          },
+          "details": {
+            "text": "Independence activist and statesman Kamaraj was a Chief Minister of Tamil Nadu for three terms; 1954–57, 1957–62, and 1962–63."
+          }
+        },
+        {
+          "year": {
+            "text": "1980"
+          },
+          "name": {
+            "text": "Mother Teresa"
+          },
+          "details": {
+            "text": "\"Saint Mother Teresa of Calcutta\" was a catholic nun and the founder of the Missionaries of Charity. She was awarded the Nobel Peace Prize for her humanitarian work in 1979 and was beatified on 19 October 2003 by Pope John Paul II and canonised on 4 September 2016 by Pope Francis."
+          }
+        },
+        {
+          "year": {
+            "text": "1983"
+          },
+          "name": {
+            "text": "Vinoba Bhave"
+          },
+          "details": {
+            "text": "Independence activist, social reformer, and a close associate of Mahatma Gandhi, Bhave is best known for his Bhoodan movement, \"Land-Gift Movement\". He was given the honorific title \"Acharya\" (\"teacher\") and was awarded the Ramon Magsaysay Award (1958) for his humanitarian work."
+          }
+        },
+        {
+          "year": {
+            "text": "1987"
+          },
+          "name": {
+            "text": "Khan Abdul Ghaffar Khan"
+          },
+          "details": {
+            "text": "Widely known as \"Frontier Gandhi\", independence activist and Pashtun leader Khan was a follower of Mahatma Gandhi. He joined Khilafat Movement in 1920 and founded Khudai Khidmatgar (\"Red Shirt movement\") in 1929."
+          }
+        },
+        {
+          "year": {
+            "text": "1988"
+          },
+          "name": {
+            "text": "M. G. Ramachandran"
+          },
+          "details": {
+            "text": "Actor turned politician Ramachandran served as Chief Minister of Tamil Nadu for three terms; 1977–80, 1980–84, 1985–87."
+          }
+        },
+        {
+          "year": {
+            "text": "1990"
+          },
+          "name": {
+            "text": "B. R. Ambedkar"
+          },
+          "details": {
+            "text": "Social reformer and leader of the Dalits, Ambedkar was the Chief architect of the Indian Constitution and also served as the first Law Minister of India. Ambedkar predominantly campaigned against the social discrimination with Dalits, the Hindu varna system. He was associated with the Dalit Buddhist movement and accepted Buddhism as a religion along with his close to half a million followers on 14 October 1956."
+          }
+        },
+        {
+          "year": {
+            "text": "1990"
+          },
+          "name": {
+            "text": "Nelson Mandela"
+          },
+          "details": {
+            "text": "Leader of the Anti-Apartheid Movement in South Africa, Mandela was the President of South Africa (1994–99). Often called as the \"Gandhi of South Africa\", Mandela's African National Congress movement was influenced by Gandhian philosophy. In 1993, he was awarded the Nobel Peace Prize."
+          }
+        },
+        {
+          "year": {
+            "text": "1991"
+          },
+          "name": {
+            "text": "Rajiv Gandhi"
+          },
+          "details": {
+            "text": "Gandhi was the ninth Prime Minister of India serving from 1984 to 1989."
+          }
+        },
+        {
+          "year": {
+            "text": "1991"
+          },
+          "name": {
+            "text": "Vallabhbhai Patel"
+          },
+          "details": {
+            "text": "Widely known as the \"Iron Man of India\", Patel was an independence activist and first Deputy Prime Minister of India (1947–50). Post independence, \"Sardar\" (\"Leader\") Patel worked with V. P. Menon towards dissolving 555 princely states into the Indian union."
+          }
+        },
+        {
+          "year": {
+            "text": "1991"
+          },
+          "name": {
+            "text": "Morarji Desai"
+          },
+          "details": {
+            "text": "Independence activist Desai was the sixth Prime Minister of India (1977–79). He is the only Indian national to be awarded the Nishan-e-Pakistan, highest civilian award given by the Government of Pakistan."
+          }
+        },
+        {
+          "year": {
+            "text": "1992"
+          },
+          "name": {
+            "text": "Abul Kalam Azad"
+          },
+          "details": {
+            "text": "Independence activist Azad was India's first Minister of Education and worked towards free primary education. He was widely known as \"Maulana Azad\" and his birthday on 11 November is observed as National Education Day in India."
+          }
+        },
+        {
+          "year": {
+            "text": "1992"
+          },
+          "name": {
+            "text": "J. R. D. Tata"
+          },
+          "details": {
+            "text": "Industrialist, philanthropist, and aviation pioneer, Tata founded India's first airline Air India. He is the founder of various institutes including Tata Institute of Fundamental Research, Tata Memorial Hospital, Tata Institute of Social Sciences, Tata Motors, TCS, National Institute of Advanced Studies, and National Centre for the Performing Arts."
+          }
+        },
+        {
+          "year": {
+            "text": "1992"
+          },
+          "name": {
+            "text": "Satyajit Ray"
+          },
+          "details": {
+            "text": "Having debuted as a director with Pather Panchali (1955), film-maker Ray is credited with bringing world recognition to Indian cinema. In 1984, Ray was awarded the Dadasaheb Phalke Award, India's highest award in cinema."
+          }
+        },
+        {
+          "year": {
+            "text": "1997"
+          },
+          "name": {
+            "text": "Gulzarilal Nanda"
+          },
+          "details": {
+            "text": "Independence activist Nanda was two times interim Prime Minister of India (1964, 1966) and two times deputy chairman of the Planning Commission."
+          }
+        },
+        {
+          "year": {
+            "text": "1997"
+          },
+          "name": {
+            "text": "Aruna Asaf Ali"
+          },
+          "details": {
+            "text": "Independence activist Ali is better known for hoisting the Indian flag in Bombay during the Quit India Movement in 1942. Post Independence, Ali was elected as Delhi's first mayor in 1958."
+          }
+        },
+        {
+          "year": {
+            "text": "1997"
+          },
+          "name": {
+            "text": "Aerospace and defence scientist, Kalam was involved in the development of India's first satellite launch vehicle SLV III and was the architect of Integrated Guided Missile Development Program. He worked for Indian National Committee for Space Research, Indian Space Research Organisation, Defence Research and Development Laboratory and was appointed as the Scientific Advisor to the Defence Minister, Secretary to Department of Defence Research and Development and Director General of Defence Research and Development Organisation. Later, he served as the eleventh President of India from 2002 till 2007."
+          }
+        },
+        {
+          "year": {
+            "text": "1998"
+          },
+          "name": {
+            "text": "M. S. Subbulakshmi"
+          },
+          "details": {
+            "text": "Carnatic classical vocalist Subbulakshmi, often hailed as \"Queen of songs\", is the first Indian musician to receive the Ramon Magsaysay award."
+          }
+        },
+        {
+          "year": {
+              "text" :"1998"
+          },
+          "name": {
+            "text": "Independence activist and former Minister of Agriculture of India (1964–66), Subramaniam is known for his contribution towards Green Revolution in India. During the late 1970s, he worked for International Rice Research Institute, Manila, and the International Maize and Wheat Research Institute, Mexico."
+          }
+        },
+        {
+          "year": {
+            "text": "1999"
+          },
+          "name": {
+            "text": "Jayaprakash Narayan"
+          },
+          "details": {
+            "text": "Independence activist, social reformer, and commonly referred as \"Lok Nayak\" (\"People's Hero\"), Narayan is better known for \"Total Revolution Movement\" or \"JP Movement\" initiated during the mid-1970s to \"overthrow the corrupt and exploitative Congress government\"."
+          }
+        },
+        {
+          "year": {
+            "text": "1999"
+          },
+          "name": {
+            "text": "Amartya Sen"
+          },
+          "details": {
+            "text": "Winner of the Nobel Memorial Prize in Economic Sciences (1998), Sen has done research over several topics including social choice theory, ethics and political philosophy, welfare economics, decision theory, development economics, public health, and gender studies."
+          }
+        },
+        {
+          "year": {
+            "text": "1999"
+          },
+          "name": {
+            "text": "Gopinath Bordoloi"
+          },
+          "details": {
+            "text": "Independence activist Bordoloi is the first Chief Minister of Assam (1946–50). His efforts and association with the then Minister of Home Affairs Vallabhbhai Patel were widely acknowledged while keeping Assam united with India when parts of it were to merge with East Pakistan."
+          }
+        },
+        {
+          "year": {
+            "text": "1999"
+          },
+          "name": {
+            "text": "Ravi Shankar"
+          },
+          "details": {
+            "text": "Winner of four Grammy Awards and often considered \"the world's best-known exponent of Hindustani classical music\", sitar player Shankar is known for his collaborative work with Western musicians including Yehudi Menuhin and George Harrison."
+          }
+        },
+        {
+          "year": {
+            "text": "2001"
+          },
+          "name": {
+            "text": "Lata Mangeshkar"
+          },
+          "details": {
+            "text": "Widely credited as the \"nightingale of India\", playback singer Mangeshkar started her career in the 1940s and has sung songs in over 36 languages. In 1989, Mangeshkar was awarded the Dadasaheb Phalke Award, India's highest award in cinema."
+          }
+        },
+        {
+          "year": {
+              "text":"2001"
+          },
+          "name": {
+            "text": "Bismillah Khan"
+          },
+          "details": {
+            "text": "Hindustani classical shehnai player, Khan played the instrument for more than eight decades and is credited to have brought the instrument to the centre stage of Indian music."
+          }
+        },
+        {
+          "year": {
+            "text": "2008"
+          },
+          "name": {
+            "text": "Bhimsen Joshi"
+          },
+          "details": {
+            "text": "Hindustani classical vocalist, Joshi was a disciple of Kirana gharana, an Indian musical school. He is widely known for the Khyal genre of singing with a \"mastery over rhythm and accurate Name\"."
+          }
+        },
+        {
+          "year": {
+            "text": "2014"
+          },
+          "name": {
+            "text": "C. N. R. Rao"
+          },
+          "details": {
+            "text": "The recipient of Honorary Doctorates from 63 Universities including Purdue, IIT Bombay, Oxford, chemist and professor Rao has worked prominently in the fields of Solid State and Materials Chemistry, Spectroscopy and Molecular Structure. He has authored around 1600 research papers and 48 books."
+          }
+        },
+        {
+          "year": {
+            "text": "2014"
+          },
+          "name": {
+            "text": "Having debuted in 1989, Tendulkar played 664 international cricket matches in a career spanning over two decades. He holds various cricket records including the only player to have scored one hundred international centuries, the first batsman to score a double century in a One Day International and the only player to complete more than 30,000 runs in both ODI and Test cricket."
+          }
+        },
+        {
+          "year": {
+            "text": "2015"
+          },
+          "name": {
+            "text": "Madan Mohan Malaviya"
+          },
+          "details": {
+            "text": "Scholar and educational reformer Malaviya is a founder of Akhil Bharatiya Hindu Mahasabha (1906) and Banaras Hindu University and served as the university's vice-chancellor from 1919 till 1938. He was the President of Indian National Congress for four terms and was the Chairman of Hindustan Times from 1924 to 1946."
+          }
+        },
+        {
+          "year": {
+            "text": "2015"
+          },
+          "name": {
+            "text": "Atal Bihari Vajpayee"
+          },
+          "details": {
+            "text": "Parliamentarian for over four decades, Vajpayee was elected nine times to the Lok Sabha, twice to the Rajya Sabha and served as the Prime Minister of India for three terms; 1996, 1998, 1999–2004. He was Minister of External Affairs during 1977–79 and was awarded the \"Best Parliamentarian\" in 1994."
+          }
+        }
+    ]
+}
 }
